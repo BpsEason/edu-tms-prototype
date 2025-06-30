@@ -262,6 +262,3 @@ jobs:
 - **Docker 部署**：多容器架構（Laravel、FastAPI、MySQL、Redis），支援快速部署。
 - **報表生成**：Chart.js 可視化與 Maatwebsite/Excel 匯出，支援大量數據處理。
 - **資料庫設計**：結構化 MySQL 表（Course、Chapter、Progress），高效查詢與報表生成。
-
-## 問題回報
-若有問題，請在 [GitHub Issues](https://github.com/BpsEason/edu-tms-prototype/issues) 提交，或聯繫 <your-email@example.com>。
