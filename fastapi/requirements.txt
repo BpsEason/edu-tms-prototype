@@ -1,0 +1,6 @@
+celery[redis]
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
